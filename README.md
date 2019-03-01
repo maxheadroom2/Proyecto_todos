@@ -26,4 +26,4 @@
 
 - ### Lyz **debe** ir por las chelas, por que no se puede trabajar asi
 
-![Cerveza](http://www.astrolabio.com.mx/wp-content/uploads/2015/07/167.jpg)
+![Cerveza](https://raw.githubusercontent.com/maxheadroom2/Scrum/master/beer.png)
