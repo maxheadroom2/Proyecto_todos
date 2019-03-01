@@ -2,7 +2,8 @@
 
 realizar un backlog
 
-1  - creacion del repositorio
+1  - creacion del repositorio (ok)
+
 2  - creacion de login.html
 3  - ""          home.html
 4  - ""          style.css
