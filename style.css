@@ -1,3 +1,11 @@
 .button {
     font-size: 10px;
 }
+
+.HomeBody{
+  background-color: yellow;
+}
+
+.LoginBody{
+  background-color: red;
+}
