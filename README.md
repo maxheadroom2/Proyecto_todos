@@ -1,25 +1,29 @@
 
 
-realizar un backlog
+## realizar un backlog
 
-1  - creacion del repositorio (ok)
+<p>Este proyecto debe realizarse entre todos los colaboradores del curso de BEDU 2019.</p>
 
-2  - creacion de login.html  (ok)
+- ~~Creacion del repositorio~~
 
-3  - ""          home.html (ok)
+- ~~creacion de login.html~~
 
-4  - ""          style.css (ok)
+- ~~""          home.html~~
 
-5  - Enlazar css con todas las paginas (ok)
- 
-6  - Agregar un boton en login.html con texto "login" (ok)
+- ~~""          style.css~~
 
-7  - Agregar color de fondo en css
+- Enlazar css con todas las paginas
 
-8  - Agregar un parrafo descriptivo en cada pagina existente (ok)
+- Agregar un boton en login.html con texto "login"
 
-9  - Agregar boton en homepage.html y que cambie el color del boton
+- Agregar color de fondo en css
 
-10 - Agregar cambiar de tamaño de texto en boton de login de login.html (ok)
+- Agregar un parrafo descriptivo en cada pagina existente
 
-11 - Lyz ir por las chelas, por que no se puede trabajar asi
+- Agregar boton en homepage.html y que cambie el color del boton
+
+- Agregar cambiar de tamaño de texto en boton de login de login.html
+
+- ### Lyz **debe** ir por las chelas, por que no se puede trabajar asi
+
+![Cerveza](http://www.astrolabio.com.mx/wp-content/uploads/2015/07/167.jpg)
