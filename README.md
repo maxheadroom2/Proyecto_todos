@@ -22,4 +22,4 @@ realizar un backlog
 
 10 - Agregar cambiar de tamaño de texto en boton de login de login.html
 
-11 -
+11 - Lyz ir por las chelas, por que no se puede trabajar asi
