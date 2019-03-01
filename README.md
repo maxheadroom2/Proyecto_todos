@@ -4,11 +4,11 @@ realizar un backlog
 
 1  - creacion del repositorio (ok)
 
-2  - creacion de login.html
+2  - creacion de login.html  (ok)
 
-3  - ""          home.html
+3  - ""          home.html (ok)
 
-4  - ""          style.css
+4  - ""          style.css (ok)
 
 5  - Enlazar css con todas las paginas
 
@@ -22,6 +22,4 @@ realizar un backlog
 
 10 - Agregar cambiar de tamaño de texto en boton de login de login.html
 
-11 - 
-
-
+11 -
