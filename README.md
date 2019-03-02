@@ -12,17 +12,17 @@
 
 - ~~""          style.css~~
 
-- Enlazar css con todas las paginas
+- ~~Enlazar css con todas las paginas~~
 
-- Agregar un boton en login.html con texto "login"
+- ~~Agregar un boton en login.html con texto "login"~~
 
-- Agregar color de fondo en css
+- ~~Agregar color de fondo en css~~
 
-- Agregar un parrafo descriptivo en cada pagina existente
+- ~~Agregar un parrafo descriptivo en cada pagina existente~~
 
-- Agregar boton en homepage.html y que cambie el color del boton
+- ~~Agregar boton en homepage.html y que cambie el color del boton~~
 
-- Agregar cambiar de tamaño de texto en boton de login de login.html
+- ~~Agregar cambiar de tamaño de texto en boton de login de login.html~~
 
 - ### Lyz **debe** ir por las chelas, por que no se puede trabajar asi
 
