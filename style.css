@@ -1,3 +1,25 @@
 .button {
     font-size: 10px;
 }
+
+.HomeBody{
+  background-color: yellow;
+}
+
+.LoginBody{
+  background-color: red;
+}
+
+.btn {
+  border: none;
+  background-color: red;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+/* On mouse-over */
+.btn:hover {background: #eee;}
+
+.success {color: green;}
