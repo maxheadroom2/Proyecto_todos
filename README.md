@@ -24,6 +24,6 @@
 
 - ~~Agregar cambiar de tamaño de texto en boton de login de login.html~~
 
-- ### Lyz **debe** ir por las chelas, por que no se puede trabajar asi
+-  Lyz **debe** ir por las chelas, por que no se puede trabajar asi **mañana**
 
 ![Cerveza](https://raw.githubusercontent.com/maxheadroom2/Scrum/master/beer.png)
